@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "source": "Open-Meteo via GitHub Actions",
-  "generated_at_utc": "2026-08-08T22:48:00Z",
-  "generated_at_iran": "2026-08-09 02:18",
+  "generated_at_utc": "2026-08-08T23:32:12Z",
+  "generated_at_iran": "2026-08-09 03:02",
   "province_count": 31,
   "provinces": [
     {
@@ -11,10 +11,10 @@
       "longitude": 46.2919,
       "condition_fa": "صاف",
       "weather_code": 0,
-      "temperature_c": 22.8,
+      "temperature_c": 22.6,
       "humidity_percent": 47.0,
-      "wind_kmh": 32.8,
-      "observed_at": "2026-08-09T02:15"
+      "wind_kmh": 30.2,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "آذربایجان غربی",
@@ -22,10 +22,10 @@
       "longitude": 45.0761,
       "condition_fa": "صاف",
       "weather_code": 0,
-      "temperature_c": 23.0,
-      "humidity_percent": 50.0,
-      "wind_kmh": 6.8,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 22.5,
+      "humidity_percent": 51.0,
+      "wind_kmh": 6.7,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "اردبیل",
@@ -33,21 +33,21 @@
       "longitude": 48.2933,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 16.5,
-      "humidity_percent": 88.0,
-      "wind_kmh": 3.3,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 16.1,
+      "humidity_percent": 89.0,
+      "wind_kmh": 2.9,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "اصفهان",
       "latitude": 32.6546,
       "longitude": 51.668,
-      "condition_fa": "نیمه ابری",
-      "weather_code": 2,
-      "temperature_c": 25.4,
-      "humidity_percent": 26.0,
-      "wind_kmh": 9.7,
-      "observed_at": "2026-08-09T02:15"
+      "condition_fa": "عمدتاً صاف",
+      "weather_code": 1,
+      "temperature_c": 24.7,
+      "humidity_percent": 27.0,
+      "wind_kmh": 7.5,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "البرز",
@@ -55,10 +55,10 @@
       "longitude": 50.9391,
       "condition_fa": "نیمه ابری",
       "weather_code": 2,
-      "temperature_c": 26.6,
-      "humidity_percent": 24.0,
-      "wind_kmh": 8.6,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 26.1,
+      "humidity_percent": 26.0,
+      "wind_kmh": 7.9,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "ایلام",
@@ -66,10 +66,10 @@
       "longitude": 46.4227,
       "condition_fa": "صاف",
       "weather_code": 0,
-      "temperature_c": 27.6,
+      "temperature_c": 27.5,
       "humidity_percent": 19.0,
-      "wind_kmh": 10.1,
-      "observed_at": "2026-08-09T02:15"
+      "wind_kmh": 10.5,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "بوشهر",
@@ -77,21 +77,21 @@
       "longitude": 50.8203,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 34.0,
-      "humidity_percent": 71.0,
-      "wind_kmh": 3.6,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 33.9,
+      "humidity_percent": 74.0,
+      "wind_kmh": 3.9,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "تهران",
       "latitude": 35.6892,
       "longitude": 51.389,
-      "condition_fa": "ابری",
-      "weather_code": 3,
-      "temperature_c": 26.3,
-      "humidity_percent": 27.0,
-      "wind_kmh": 5.6,
-      "observed_at": "2026-08-09T02:15"
+      "condition_fa": "نیمه ابری",
+      "weather_code": 2,
+      "temperature_c": 26.2,
+      "humidity_percent": 28.0,
+      "wind_kmh": 4.0,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "چهارمحال و بختیاری",
@@ -99,10 +99,10 @@
       "longitude": 50.8644,
       "condition_fa": "نیمه ابری",
       "weather_code": 2,
-      "temperature_c": 21.8,
-      "humidity_percent": 29.0,
-      "wind_kmh": 3.2,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 21.0,
+      "humidity_percent": 32.0,
+      "wind_kmh": 2.8,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "خراسان جنوبی",
@@ -110,10 +110,10 @@
       "longitude": 59.2211,
       "condition_fa": "صاف",
       "weather_code": 0,
-      "temperature_c": 22.7,
-      "humidity_percent": 28.0,
-      "wind_kmh": 7.8,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 22.4,
+      "humidity_percent": 29.0,
+      "wind_kmh": 7.5,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "خراسان رضوی",
@@ -121,10 +121,10 @@
       "longitude": 59.6168,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 24.2,
-      "humidity_percent": 32.0,
-      "wind_kmh": 4.9,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 23.7,
+      "humidity_percent": 33.0,
+      "wind_kmh": 4.8,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "خراسان شمالی",
@@ -132,32 +132,32 @@
       "longitude": 57.329,
       "condition_fa": "صاف",
       "weather_code": 0,
-      "temperature_c": 21.6,
-      "humidity_percent": 37.0,
-      "wind_kmh": 3.4,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 21.1,
+      "humidity_percent": 40.0,
+      "wind_kmh": 3.3,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "خوزستان",
       "latitude": 31.3183,
       "longitude": 48.6706,
-      "condition_fa": "عمدتاً صاف",
-      "weather_code": 1,
-      "temperature_c": 32.9,
-      "humidity_percent": 48.0,
-      "wind_kmh": 3.7,
-      "observed_at": "2026-08-09T02:15"
+      "condition_fa": "صاف",
+      "weather_code": 0,
+      "temperature_c": 32.1,
+      "humidity_percent": 53.0,
+      "wind_kmh": 4.5,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "زنجان",
       "latitude": 36.6736,
       "longitude": 48.4787,
-      "condition_fa": "نیمه ابری",
-      "weather_code": 2,
-      "temperature_c": 23.2,
-      "humidity_percent": 38.0,
-      "wind_kmh": 8.6,
-      "observed_at": "2026-08-09T02:15"
+      "condition_fa": "عمدتاً صاف",
+      "weather_code": 1,
+      "temperature_c": 22.5,
+      "humidity_percent": 40.0,
+      "wind_kmh": 8.5,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "سمنان",
@@ -165,21 +165,21 @@
       "longitude": 53.3921,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 24.7,
+      "temperature_c": 24.3,
       "humidity_percent": 36.0,
-      "wind_kmh": 5.0,
-      "observed_at": "2026-08-09T02:15"
+      "wind_kmh": 5.8,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "سیستان و بلوچستان",
       "latitude": 29.4963,
       "longitude": 60.8629,
-      "condition_fa": "صاف",
-      "weather_code": 0,
-      "temperature_c": 23.5,
-      "humidity_percent": 32.0,
-      "wind_kmh": 2.2,
-      "observed_at": "2026-08-09T02:15"
+      "condition_fa": "عمدتاً صاف",
+      "weather_code": 1,
+      "temperature_c": 22.5,
+      "humidity_percent": 35.0,
+      "wind_kmh": 2.4,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "فارس",
@@ -187,10 +187,10 @@
       "longitude": 52.5837,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 24.9,
-      "humidity_percent": 44.0,
-      "wind_kmh": 3.4,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 24.4,
+      "humidity_percent": 45.0,
+      "wind_kmh": 4.2,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "قزوین",
@@ -199,20 +199,20 @@
       "condition_fa": "نیمه ابری",
       "weather_code": 2,
       "temperature_c": 24.1,
-      "humidity_percent": 34.0,
-      "wind_kmh": 4.4,
-      "observed_at": "2026-08-09T02:15"
+      "humidity_percent": 35.0,
+      "wind_kmh": 2.6,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "قم",
       "latitude": 34.6416,
       "longitude": 50.8746,
-      "condition_fa": "نیمه ابری",
-      "weather_code": 2,
-      "temperature_c": 29.5,
-      "humidity_percent": 22.0,
-      "wind_kmh": 5.1,
-      "observed_at": "2026-08-09T02:15"
+      "condition_fa": "ابری",
+      "weather_code": 3,
+      "temperature_c": 28.8,
+      "humidity_percent": 23.0,
+      "wind_kmh": 6.1,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "کردستان",
@@ -220,10 +220,10 @@
       "longitude": 46.9862,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 23.9,
-      "humidity_percent": 38.0,
-      "wind_kmh": 3.3,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 23.1,
+      "humidity_percent": 39.0,
+      "wind_kmh": 4.1,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "کرمان",
@@ -231,10 +231,10 @@
       "longitude": 57.0834,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 22.8,
-      "humidity_percent": 28.0,
-      "wind_kmh": 3.0,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 22.2,
+      "humidity_percent": 30.0,
+      "wind_kmh": 3.1,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "کرمانشاه",
@@ -242,10 +242,10 @@
       "longitude": 47.065,
       "condition_fa": "نیمه ابری",
       "weather_code": 2,
-      "temperature_c": 25.0,
+      "temperature_c": 24.7,
       "humidity_percent": 21.0,
-      "wind_kmh": 5.5,
-      "observed_at": "2026-08-09T02:15"
+      "wind_kmh": 5.2,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "کهگیلویه و بویراحمد",
@@ -253,21 +253,21 @@
       "longitude": 51.587,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 20.0,
-      "humidity_percent": 39.0,
+      "temperature_c": 19.5,
+      "humidity_percent": 42.0,
       "wind_kmh": 0.4,
-      "observed_at": "2026-08-09T02:15"
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "گلستان",
       "latitude": 36.8456,
       "longitude": 54.4393,
-      "condition_fa": "صاف",
-      "weather_code": 0,
-      "temperature_c": 22.4,
-      "humidity_percent": 63.0,
+      "condition_fa": "عمدتاً صاف",
+      "weather_code": 1,
+      "temperature_c": 22.1,
+      "humidity_percent": 64.0,
       "wind_kmh": 8.3,
-      "observed_at": "2026-08-09T02:15"
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "گیلان",
@@ -275,10 +275,10 @@
       "longitude": 49.5832,
       "condition_fa": "نیمه ابری",
       "weather_code": 2,
-      "temperature_c": 25.9,
-      "humidity_percent": 94.0,
-      "wind_kmh": 2.3,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 25.7,
+      "humidity_percent": 95.0,
+      "wind_kmh": 2.7,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "لرستان",
@@ -286,21 +286,21 @@
       "longitude": 48.3558,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 26.0,
+      "temperature_c": 25.8,
       "humidity_percent": 32.0,
-      "wind_kmh": 3.7,
-      "observed_at": "2026-08-09T02:15"
+      "wind_kmh": 4.0,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "مازندران",
       "latitude": 36.5633,
       "longitude": 53.0601,
-      "condition_fa": "نیمه ابری",
-      "weather_code": 2,
-      "temperature_c": 24.6,
-      "humidity_percent": 90.0,
-      "wind_kmh": 5.4,
-      "observed_at": "2026-08-09T02:15"
+      "condition_fa": "عمدتاً صاف",
+      "weather_code": 1,
+      "temperature_c": 24.5,
+      "humidity_percent": 89.0,
+      "wind_kmh": 5.2,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "مرکزی",
@@ -308,10 +308,10 @@
       "longitude": 49.6892,
       "condition_fa": "ابری",
       "weather_code": 3,
-      "temperature_c": 23.9,
+      "temperature_c": 23.7,
       "humidity_percent": 29.0,
-      "wind_kmh": 4.0,
-      "observed_at": "2026-08-09T02:15"
+      "wind_kmh": 3.5,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "هرمزگان",
@@ -319,21 +319,21 @@
       "longitude": 56.2666,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 32.7,
-      "humidity_percent": 68.0,
-      "wind_kmh": 12.1,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 32.6,
+      "humidity_percent": 64.0,
+      "wind_kmh": 9.3,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "همدان",
       "latitude": 34.7989,
       "longitude": 48.515,
-      "condition_fa": "عمدتاً صاف",
-      "weather_code": 1,
-      "temperature_c": 23.1,
-      "humidity_percent": 30.0,
-      "wind_kmh": 4.6,
-      "observed_at": "2026-08-09T02:15"
+      "condition_fa": "نیمه ابری",
+      "weather_code": 2,
+      "temperature_c": 22.3,
+      "humidity_percent": 33.0,
+      "wind_kmh": 5.0,
+      "observed_at": "2026-08-09T03:00"
     },
     {
       "name": "یزد",
@@ -341,10 +341,10 @@
       "longitude": 54.3569,
       "condition_fa": "عمدتاً صاف",
       "weather_code": 1,
-      "temperature_c": 27.0,
-      "humidity_percent": 26.0,
-      "wind_kmh": 3.8,
-      "observed_at": "2026-08-09T02:15"
+      "temperature_c": 26.4,
+      "humidity_percent": 27.0,
+      "wind_kmh": 3.3,
+      "observed_at": "2026-08-09T03:00"
     }
   ]
 }
